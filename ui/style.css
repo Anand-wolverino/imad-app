@@ -14,6 +14,7 @@ body {
 
 .bold {
     font-weight: bold;
+    background:blue;
 }
 
 .img-medium {
