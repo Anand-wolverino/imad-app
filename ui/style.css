@@ -23,8 +23,11 @@ body {
     height: 200px;
 }
 .art1{
-    font-family: sans-serif;
+    font-family: times new roman;
     background-color: white;
+    margin-top: 75px;
+    margin-left:75px;
+    margin-right:75px;
     
 }
 
